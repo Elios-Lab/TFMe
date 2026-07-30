@@ -24,8 +24,8 @@ Per-sample mean squared reconstruction error is computed independently for each 
 
 | Branch | Threshold |
 | --- | --- |
-| Time | `0.007686922559514642` |
-| Frequency | `0.005322358105331659` |
+| Time | `0.007409659097902477 ` |
+| Frequency | `0.005404344177804887` |
 
 A sample is labelled anomalous if **either** branch exceeds its threshold.
 
